@@ -10,4 +10,5 @@ line6
 line7
 line8: edit
 Line 9: edit
-linh 10: new
+linh 10: edit
+linh 11: new
